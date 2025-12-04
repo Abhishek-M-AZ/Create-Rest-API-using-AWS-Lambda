@@ -1,0 +1,9 @@
+How to create Rest API using AWS Lambda
+
+1. From the AWS portal, search lambda in portal
+2. Go to create function, select python then create.
+3. Go to the text editor and change to Hello From steam.
+4. Go to API, select rest API then create.
+5. Go to the created API, select get - lambda function - select created lambda function then create.
+6. Go to deploy API, select invoke URL, paste in browser.
+7. "Hello from steam" will be displayed. This means the API is working. 
